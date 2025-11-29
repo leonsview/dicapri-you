@@ -21,37 +21,21 @@ export default function Home() {
   const [error, setError] = useState<string | null>(null);
   const [generatedVideo, setGeneratedVideo] = useState<string | null>(null);
   const [showDialog, setShowDialog] = useState(false);
+  const [showBrokePopup, setShowBrokePopup] = useState(false);
   const { generateVideo } = useGenerateVideo();
 
   const handleSubmit = async (e: React.FormEvent) => {
-
-    console.log('handleSubmit:', linkedinUrl);
-
-
     e.preventDefault();
 
-    let normalizedUrl: string;
-    
     try {
-      normalizedUrl = validateLinkedInUrl(linkedinUrl);
+      validateLinkedInUrl(linkedinUrl);
     } catch (err) {
       setError(err instanceof Error ? err.message : "Invalid URL");
       return;
     }
 
-    setLoading(true);
     setError(null);
-
-    try {
-      const videoData = await generateVideo(normalizedUrl);
-      console.log('Received video data:', videoData);
-      setGeneratedVideo(videoData);
-      setShowDialog(true);
-      setLoading(false);
-    } catch (err) {
-      setError(err instanceof Error ? err.message : "Something went wrong");
-      setLoading(false);
-    }
+    setShowBrokePopup(true);
   };
 
   return (
@@ -126,8 +110,8 @@ export default function Home() {
           </DialogHeader>
           {generatedVideo ? (
             <div className="flex justify-center">
-              <video 
-                src={generatedVideo} 
+              <video
+                src={generatedVideo}
                 controls
                 autoPlay
                 loop
@@ -141,6 +125,32 @@ export default function Home() {
               No video available. Video path: {generatedVideo}
             </div>
           )}
+        </DialogContent>
+      </Dialog>
+
+      {/* Broke Founders Popup */}
+      <Dialog open={showBrokePopup} onOpenChange={setShowBrokePopup}>
+        <DialogContent>
+          <div className="flex flex-col gap-4">
+            <p className="text-white/90 text-base leading-relaxed">
+              We&apos;re broke founders, so unfortunately we cannot give it out for free to everyone, as it costs a lot of credits.
+            </p>
+            <p className="text-white/90 text-base leading-relaxed">
+              If you really want to try it, reach out to{" "}
+              <a
+                href="mailto:mail@leonsandner.com"
+                className="text-blue-400 hover:text-blue-300 underline"
+              >
+                mail@leonsandner.com
+              </a>
+              {" "}and let us know how much you are willing to pay for such a banger personalized movie trailer, then we&apos;ll give you access :)
+            </p>
+            <img
+              src="/broke-founders.jpeg"
+              alt="Broke founders showing empty wallets"
+              className="w-full rounded-xl mt-2"
+            />
+          </div>
         </DialogContent>
       </Dialog>
     </div>

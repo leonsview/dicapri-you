@@ -113,7 +113,7 @@ export default function DemoPage() {
             {/* Loading Message */}
             {loading && (
               <p className="text-white/70 text-sm text-center">
-                Cooking your video... This takes about 30 seconds.
+                Cooking up your video now....
               </p>
             )}
           </form>
@@ -124,7 +124,7 @@ export default function DemoPage() {
       <Dialog open={showDialog} onOpenChange={setShowDialog}>
         <DialogContent className="max-w-4xl">
           <DialogHeader>
-            <DialogTitle className="text-white">Your Generated Video</DialogTitle>
+            <DialogTitle className="text-white">BELA - THE MOVIE</DialogTitle>
           </DialogHeader>
           {generatedVideo ? (
             <div className="flex justify-center">
