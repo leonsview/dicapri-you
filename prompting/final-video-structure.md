@@ -1,0 +1,15 @@
+0-2s: movies_1
+2-5s: dicaprio_1
+5-7s: dicaprio_2
+7-10s: movies_2
+10-13s: shot_1
+13-15s: shot_2
+15-18s: shot_3
+18-21s: shot_4
+21-24s: shot_5
+24-26s: shot_6
+26-29s: shot_7
+29-32s: shot_8
+32-36s: shot_9
+36-40s: shot_10
+40-45s: title_card

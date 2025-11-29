@@ -1,0 +1,27 @@
+{
+  "django": {
+    "prompt": "Replace only the face of Leonardo DiCaprio with the face of the person from the reference photo (keep facial features 100% accurate). Keep everything else in the scene exactly the same: the burgundy velvet suit jacket, ornate gold and red paisley vest, white shirt with maroon cravat, the small hammer held up in the right hand, the cigarette in mouth with smoke trailing, the slicked-back hair, the goatee, the suspicious sideways glance expression. Warm candlelit saloon interior with golden ambient lighting and chandeliers in background. The face swap must look completely natural and seamless as if this person was originally cast in the film. Ultra-photorealistic, cinematic film still quality, 8K resolution, no artifacts, no distortion.",
+    "movie_reference_image": "https://ubioqzowbvhigmxygqpn.supabase.co/storage/v1/object/public/reference-images/django.jpg",
+    "person_reference_image": "{{person_profile_image}}"
+  },
+  "gatsby": {
+    "prompt": "Replace only the face of Leonardo DiCaprio with the face of the person from the reference photo (keep facial features 100% accurate). Keep everything else in the scene exactly the same: the classic black tuxedo with black bow tie, white dress shirt with pocket square, the champagne coupe glass raised toward camera in a toast gesture, the charming knowing smile, the slicked-back blonde hair, the 1920s party atmosphere. Lavish party background with fireworks, confetti, bokeh lights, and celebrating crowd in soft focus behind. The face swap must look completely natural and seamless as if this person was originally cast in the film. Ultra-photorealistic, cinematic film still quality, 8K resolution, no artifacts, no distortion.",
+    "movie_reference_image": "https://ubioqzowbvhigmxygqpn.supabase.co/storage/v1/object/public/reference-images/gatsby.jpg",
+    "person_reference_image": "{{person_profile_image}}"
+  },
+  "revenant": {
+    "prompt": "Replace only the face of Leonardo DiCaprio with the face of the person from the reference photo (keep facial features 100% accurate). Keep everything else in the scene exactly the same: the heavy brown bear fur coat wrapped around shoulders, the long wet matted hair and thick unkempt beard, the weathered exhausted expression looking into the distance, the visible wounds and scratches on forehead and face, the harsh winter survival look. Vast snowy wilderness landscape background with pale blue sky, distant pine forest silhouette, and frozen tundra. The face swap must look completely natural and seamless as if this person was originally cast in the film. Ultra-photorealistic, cinematic film still quality, 8K resolution, no artifacts, no distortion.",
+    "movie_reference_image": "https://ubioqzowbvhigmxygqpn.supabase.co/storage/v1/object/public/reference-images/revenant.jpg",
+    "person_reference_image": "{{person_profile_image}}"
+  },
+  "titanic": {
+    "prompt": "Replace only the face of Leonardo DiCaprio with the face of the person from the reference photo (keep facial features 100% accurate). Keep everything else in the scene exactly the same: the iconic 'king of the world' bow of the ship pose, standing behind a woman with arms spread wide, the period-appropriate jacket with floral pattern sleeves, the wind-swept hair, the joyful expression, the romantic embrace position. Golden sunset sky with warm orange and amber tones, ship rigging and ropes visible, ocean horizon in background. The face swap must look completely natural and seamless as if this person was originally cast in the film. Ultra-photorealistic, cinematic film still quality, 8K resolution, no artifacts, no distortion.",
+    "movie_reference_image": "https://ubioqzowbvhigmxygqpn.supabase.co/storage/v1/object/public/reference-images/titanic.jpg",
+    "person_reference_image": "{{person_profile_image}}"
+  },
+  "wolf_of_wallstreet": {
+    "prompt": "Replace only the face of Leonardo DiCaprio with the face of the person from the reference photo (keep facial features 100% accurate). Keep everything else in the scene exactly the same: the expensive charcoal pinstripe suit, white dress shirt, black and gold striped tie, the confident composed stance facing camera, the slight knowing smirk expression, the slicked-back dark hair. Chaotic office party background with confetti falling, celebrating crowd of traders going wild, people cheering with arms raised on all sides. The face swap must look completely natural and seamless as if this person was originally cast in the film. Ultra-photorealistic, cinematic film still quality, 8K resolution, no artifacts, no distortion.",
+    "movie_reference_image": "https://ubioqzowbvhigmxygqpn.supabase.co/storage/v1/object/public/reference-images/wolf%20of%20wallstreet.jpg",
+    "person_reference_image": "{{person_profile_image}}"
+  }
+}

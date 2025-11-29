@@ -1,0 +1,683 @@
+[
+    {
+      "linkedinUrl": "https://www.linkedin.com/in/amitvadi/",
+      "firstName": "Amit",
+      "lastName": "Vadi",
+      "fullName": "Amit Vadi",
+      "headline": "Head of Community, Google DeepMind DevX | Apple alum",
+      "connections": 2913,
+      "followers": 2895,
+      "email": null,
+      "mobileNumber": "447834620200",
+      "jobTitle": "Head of Community, Developer Experience (DevX)",
+      "jobStartedOn": "1-2025",
+      "jobLocation": "London Area, United Kingdom",
+      "jobStillWorking": true,
+      "companyName": "Google DeepMind",
+      "companyIndustry": "Research Services",
+      "companyWebsite": "https://www.deepmind.google",
+      "companyLinkedin": "https://www.linkedin.com/company/googledeepmind/",
+      "companyFoundedIn": null,
+      "companySize": "501-1000",
+      "currentJobDuration": "11 mos",
+      "currentJobDurationInYrs": 0.92,
+      "topSkillsByEndorsements": null,
+      "addressCountryOnly": "United Kingdom",
+      "addressWithCountry": "London Area, United Kingdom United Kingdom",
+      "addressWithoutCountry": "London Area, United Kingdom",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQFmm47KW9A8Gw/profile-displayphoto-shrink_800_800/B4EZXDjIJCGgAg-/0/1742742521581?e=1766016000&v=beta&t=HXQuS9wIv3bpoLEXqIQCLagnCJF04IfzahrhBhJ1zS8",
+      "profilePicHighQuality": "https://media.licdn.com/dms/image/v2/D4E03AQFmm47KW9A8Gw/profile-displayphoto-shrink_800_800/B4EZXDjIJCGgAg-/0/1742742521581?e=1766016000&v=beta&t=HXQuS9wIv3bpoLEXqIQCLagnCJF04IfzahrhBhJ1zS8",
+      "backgroundPic": "https://media.licdn.com/dms/image/v2/D4E16AQE6sB5tlUcATg/profile-displaybackgroundimage-shrink_350_1400/B4EZXAiO6dG0Ac-/0/1742691954889?e=1766016000&v=beta&t=uGiRhAFU0_3pjB6NgdsZdNccOQAefoPopa2sPX-Hc6o",
+      "linkedinId": "59994036",
+      "isPremium": false,
+      "isVerified": true,
+      "isJobSeeker": false,
+      "isRetired": false,
+      "isCreator": false,
+      "isInfluencer": false,
+      "about": "Driven by the potential of technology to shape a better future, I lead global programs that bring emerging innovations to scale. My approach involves developing strategies that successfully engage both technical communities and end-users. I am dedicated to fostering authentic relationships, building seamless user journeys, and consistently delivering impactful, measurable results.",
+      "publicIdentifier": "amitvadi",
+      "linkedinPublicUrl": "https://linkedin.com/in/amitvadi",
+      "openConnection": false,
+      "urn": "ACoAAAOTb7QBC-U552Bu_C_3gEfehETjxyLjD-k",
+      "birthday": {
+        "day": "",
+        "month": "",
+        "year": ""
+      },
+      "associatedHashtag": [],
+      "experiences": [
+        {
+          "companyId": "1594050",
+          "companyUrn": "urn:li:fsd_company:1594050",
+          "companyLink1": "https://www.linkedin.com/company/googledeepmind/",
+          "companyName": "Google DeepMind",
+          "companySize": "501-1000",
+          "companyWebsite": "https://www.deepmind.google",
+          "companyIndustry": "Research Services",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEntrYwxPlbQA/company-logo_400_400/company-logo_400_400/0/1692960425188/googledeepmind_logo?e=1766016000&v=beta&t=frBXTdNdKTYK2GKi_OpW61gZCmMIkYrECksA9RX-6xc",
+          "title": "Head of Community, Developer Experience (DevX)",
+          "jobDescription": "Empowering developers to build AI that benefits humanity. Current areas of focus include Gemini, Gemma, GenMedia and Robotics. \n\nStart building with ai.studio",
+          "jobStartedOn": "1-2025",
+          "jobEndedOn": null,
+          "jobLocation": "London Area, United Kingdom",
+          "jobStillWorking": true,
+          "jobLocationCountry": "GB",
+          "employmentType": "Full-time",
+          "subtitle": null,
+          "caption": null,
+          "metadata": null
+        },
+        {
+          "companyId": "1441",
+          "companyUrn": "urn:li:fsd_company:1441",
+          "companyLink1": "https://www.linkedin.com/company/google/",
+          "companyName": "Google",
+          "companySize": "10001-0",
+          "companyWebsite": "https://goo.gle/3DLEokh",
+          "companyIndustry": "Software Development",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1766016000&v=beta&t=7lvLVem85K20o2qD8bFVwp4gon7HW6Hki7wjcsStdD4",
+          "title": "Head of Community, AI/ML Developer",
+          "jobDescription": null,
+          "jobStartedOn": "1-2025",
+          "jobEndedOn": "1-2025",
+          "jobLocation": "London Area, United Kingdom",
+          "jobStillWorking": false,
+          "jobLocationCountry": "US",
+          "employmentType": "Full-time",
+          "subtitle": null,
+          "caption": null,
+          "metadata": null
+        },
+        {
+          "companyId": "9373737",
+          "companyUrn": "urn:li:fsd_company:9373737",
+          "companyLink1": "https://www.linkedin.com/company/consensys-software-inc/",
+          "companyName": "Consensys",
+          "companySize": "501-1000",
+          "companyWebsite": "https://consensys.io/",
+          "companyIndustry": "Software Development",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE3hYT2QCBRzw/company-logo_400_400/company-logo_400_400/0/1687864720039/consensys_software_inc_logo?e=1766016000&v=beta&t=ldYGX1_2zZbfayJTzYRxiJJpQ9IlOCD1Qg55u9S3e_s",
+          "title": "Lead Product Marketing Manager",
+          "jobDescription": "Led go to market strategies for MetaMask’s Core Experiences covering key areas such as Assets, Confirmations, Portfolio, Safety, UI/UX, and Multichain",
+          "jobStartedOn": "7-2024",
+          "jobEndedOn": "10-2024",
+          "jobLocation": null,
+          "jobStillWorking": false,
+          "jobLocationCountry": "US",
+          "employmentType": "Full-time",
+          "subtitle": null,
+          "caption": null,
+          "metadata": null
+        },
+        {
+          "companyId": "24771316",
+          "companyUrn": "urn:li:fsd_company:24771316",
+          "companyLink1": "https://www.linkedin.com/company/aavelabs/",
+          "companyName": "Aave Labs",
+          "companySize": "51-200",
+          "companyWebsite": "http://avara.xyz",
+          "companyIndustry": "Blockchain Services",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEI69FRC6uZlg/company-logo_400_400/B4EZjGlXG6HEAY-/0/1755678339867/avaraxyz_logo?e=1766016000&v=beta&t=k3mNOlnI6zqEVqBk9s-OLr8-QgmtGiFo8Ta7NJEo5kU",
+          "title": "Director, Product Marketing",
+          "jobDescription": "Led marketing, social, and go to market (GTM) operations for the Avara suite of products, including Aave (DeFi), Lens (Social), and Family (Wallet). Oversaw the successful launch of the Aave stablecoin and several market deployments, contributing to over $10B in Total Value Locked (TVL) growth. Scaled Lens Protocol through its 0-to-1 beta stage, securing a $15M Series A. Drove key initiatives including the Aave Co. to Avara rebrand, developer docs and SDK, education initiatives, growth marketing, sponsorships, and partner management",
+          "jobStartedOn": "7-2022",
+          "jobEndedOn": "2-2024",
+          "jobLocation": "London, England, United Kingdom",
+          "jobStillWorking": false,
+          "jobLocationCountry": "GB",
+          "employmentType": "Full-time",
+          "subtitle": null,
+          "caption": null,
+          "metadata": null
+        },
+        {
+          "companyId": "162479",
+          "companyUrn": "urn:li:fsd_company:162479",
+          "companyLink1": "https://www.linkedin.com/company/apple/",
+          "companyName": "Apple",
+          "companySize": "10001-0",
+          "companyWebsite": "http://www.apple.com/careers",
+          "companyIndustry": "Computers and Electronics Manufacturing",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_400_400/company-logo_400_400/0/1630637844948/apple_logo?e=1766016000&v=beta&t=WVbTMMJcFU5I8cjTgY3plaH-W1kiY6BM2UNh0vPp1n0",
+          "title": "Senior Program Manager, Worldwide Product Marketing",
+          "jobDescription": "Built and scaled global qualitative and quantitative research programs from the ground up across Apple’s product ecosystem, providing strategic insights that shaped the evolution of iOS, iPadOS, macOS, and flagship services including Siri, Safari, iCloud, iMessage, Mail, and CarPlay. Led high-impact initiatives from early ideation through successful market launch, including App Tracking Transparency (iOS 14.5), Siri on-device experience and cross-platform Safari redesign (iOS 15), and the complete Lock Screen redesign with CarPlay overhaul (iOS 16). My contributions extended to Worldwide Developer Relations strategy (WWDC 2020-2022), establishing a data flywheel that optimized product development cycles and drove long-term revenue growth across all Apple platforms",
+          "jobStartedOn": "10-2018",
+          "jobEndedOn": "6-2022",
+          "jobLocation": "London, England / Cupertino, USA",
+          "jobStillWorking": false,
+          "jobLocationCountry": "US",
+          "employmentType": "Full-time",
+          "subtitle": null,
+          "caption": null,
+          "metadata": null
+        },
+        {
+          "companyId": "162479",
+          "companyUrn": "urn:li:fsd_company:162479",
+          "companyLink1": "https://www.linkedin.com/company/apple/",
+          "companyName": "Apple",
+          "companySize": "10001-0",
+          "companyWebsite": "http://www.apple.com/careers",
+          "companyIndustry": "Computers and Electronics Manufacturing",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_400_400/company-logo_400_400/0/1630637844948/apple_logo?e=1766016000&v=beta&t=WVbTMMJcFU5I8cjTgY3plaH-W1kiY6BM2UNh0vPp1n0",
+          "title": "Senior Analyst, EMEIA Product Marketing",
+          "jobDescription": "Led data-driven initiatives across 40+ countries for Apple's iPad, Mac, Apple Watch, and Smart Home + Accessories (Apple TV, HomePod, AirPods). I transformed raw data into actionable insights, directly enhancing marketing strategies through Quarterly Business Reviews (QBRs), product briefings, and analyst relations. My contributions also informed go to market initiatives, demand generation, partnership support, and strategic long-term planning for regional sales and finance leadership teams",
+          "jobStartedOn": "3-2014",
+          "jobEndedOn": "10-2018",
+          "jobLocation": "London, United Kingdom",
+          "jobStillWorking": false,
+          "jobLocationCountry": "US",
+          "employmentType": "Full-time",
+          "subtitle": null,
+          "caption": null,
+          "metadata": null
+        },
+        {
+          "companyId": "162479",
+          "companyUrn": "urn:li:fsd_company:162479",
+          "companyLink1": "https://www.linkedin.com/company/apple/",
+          "companyName": "Apple",
+          "companySize": "10001-0",
+          "companyWebsite": "http://www.apple.com/careers",
+          "companyIndustry": "Computers and Electronics Manufacturing",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_400_400/company-logo_400_400/0/1630637844948/apple_logo?e=1766016000&v=beta&t=WVbTMMJcFU5I8cjTgY3plaH-W1kiY6BM2UNh0vPp1n0",
+          "title": "EMEIA Product Marketing Internship",
+          "jobDescription": "I had the privilege to work on major Apple product launches (iPhone 5s, iPhone 5c, iOS 7, iPad Air & mini, MacBook Air & Pro) and subsequent media events, press briefings across Western Europe",
+          "jobStartedOn": "3-2013",
+          "jobEndedOn": "3-2014",
+          "jobLocation": "London, England, United Kingdom",
+          "jobStillWorking": false,
+          "jobLocationCountry": "US",
+          "employmentType": "Full-time",
+          "subtitle": null,
+          "caption": null,
+          "metadata": null
+        },
+        {
+          "companyId": "5390798",
+          "companyUrn": "urn:li:fsd_company:5390798",
+          "companyLink1": "https://www.linkedin.com/company/hp/",
+          "companyName": "HP",
+          "companySize": "10001-0",
+          "companyWebsite": "http://www.hp.com",
+          "companyIndustry": "IT Services and IT Consulting",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEJUaQAv2kVcQ/company-logo_400_400/B56ZViAo6QHoAY-/0/1741106089999/hp_logo?e=1766016000&v=beta&t=ep_6D7nffS-cBk35jtVcwfuneuLoXJIuZLUile_66X0",
+          "title": "EMEA Product Manager Apprenticeship",
+          "jobDescription": "Managed product development for consumer and commercial PC accessories in EMEA. Worked on NPI design and messaging in collaboration with Worldwide Marketing and Product Engineering, from conception through to packaging. Accountable for over 500 SKUs (B2B + B2C) across 40+ markets",
+          "jobStartedOn": "7-2012",
+          "jobEndedOn": "1-2013",
+          "jobLocation": "Grenoble Area, France",
+          "jobStillWorking": false,
+          "jobLocationCountry": "US",
+          "employmentType": "Full-time",
+          "subtitle": null,
+          "caption": null,
+          "metadata": null
+        },
+        {
+          "companyId": "2329",
+          "companyUrn": "urn:li:fsd_company:2329",
+          "companyLink1": "https://www.linkedin.com/company/schneider-electric/",
+          "companyName": "Schneider Electric",
+          "companySize": "10001-0",
+          "companyWebsite": "https://www.se.com/",
+          "companyIndustry": "Automation Machinery Manufacturing",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGNfeTPCu6Z-w/company-logo_400_400/company-logo_400_400/0/1631312208065?e=1766016000&v=beta&t=NeMvHfRyxOuFStMxaZ78HyuYQbX6H8qTkLg7zXe5JEM",
+          "title": "Innovation and Strategy Consultant",
+          "jobDescription": "Elected as Project Leader. Crafted a global strategy as part of my master's curriculum (Live Business Case) for an innovative cloud data warehouse maintenance service tailored for remote diagnostics",
+          "jobStartedOn": "11-2011",
+          "jobEndedOn": "5-2012",
+          "jobLocation": "Grenoble, Auvergne-Rhône-Alpes, France",
+          "jobStillWorking": false,
+          "jobLocationCountry": "FR",
+          "employmentType": "Full-time",
+          "subtitle": null,
+          "caption": null,
+          "metadata": null
+        }
+      ],
+      "updates": [],
+      "skills": [
+        {
+          "title": "International Business"
+        },
+        {
+          "title": "Microsoft Office"
+        },
+        {
+          "title": "Innovation Management"
+        },
+        {
+          "title": "Business Strategy"
+        },
+        {
+          "title": "Entrepreneurial Skills"
+        },
+        {
+          "title": "Team Leadership"
+        },
+        {
+          "title": "English"
+        },
+        {
+          "title": "Product Marketing"
+        },
+        {
+          "title": "Business Development"
+        },
+        {
+          "title": "Integrity"
+        },
+        {
+          "title": "Ethics"
+        },
+        {
+          "title": "Windows"
+        },
+        {
+          "title": "Entrepreneurship"
+        },
+        {
+          "title": "Negotiation"
+        },
+        {
+          "title": "OS X"
+        },
+        {
+          "title": "Sales"
+        },
+        {
+          "title": "Product Development"
+        }
+      ],
+      "creatorWebsite": [],
+      "profilePicAllDimensions": [],
+      "educations": [
+        {
+          "companyId": "12323",
+          "companyUrn": "urn:li:fsd_company:12323",
+          "companyLink1": "https://www.linkedin.com/school/grenoble-ecole-de-management/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGvtx73DKMbbw/company-logo_100_100/B4EZqgg5YRIUAQ-/0/1763629570049/grenoble_ecole_de_management_logo?e=1766016000&v=beta&t=KtLX3XAMmRSLd8dA1-VuUcO9yLyAoJ2UZ9RVklTkLF8",
+          "title": "Grenoble Ecole de Management",
+          "subtitle": "Master of Science - MS, Innovation, Strategy & Entrepreneurship",
+          "period": {
+            "startedOn": {
+              "year": 2011
+            },
+            "endedOn": {
+              "year": 2013
+            }
+          },
+          "breakdown": false
+        },
+        {
+          "companyId": "12323",
+          "companyUrn": "urn:li:fsd_company:12323",
+          "companyLink1": "https://www.linkedin.com/school/grenoble-ecole-de-management/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGvtx73DKMbbw/company-logo_100_100/B4EZqgg5YRIUAQ-/0/1763629570049/grenoble_ecole_de_management_logo?e=1766016000&v=beta&t=KtLX3XAMmRSLd8dA1-VuUcO9yLyAoJ2UZ9RVklTkLF8",
+          "title": "Grenoble Ecole de Management",
+          "subtitle": "Bachelor, International Business",
+          "period": {
+            "startedOn": {
+              "year": 2009
+            },
+            "endedOn": {
+              "year": 2011
+            }
+          },
+          "breakdown": false
+        },
+        {
+          "companyId": "10825",
+          "companyUrn": "urn:li:fsd_company:10825",
+          "companyLink1": "https://www.linkedin.com/school/dalhousie-university/",
+          "logo": "https://media.licdn.com/dms/image/v2/C560BAQHfPPsx3l1srQ/company-logo_200_200/company-logo_200_200/0/1654526060264/dalhousie_university_logo?e=1766016000&v=beta&t=ZMiB9bXq0PCB1SvkonaSuLn8IpHzh0puNZ0PjZveJnE",
+          "title": "Dalhousie University",
+          "subtitle": "Bachelor of Science (Psychology)/Bachelor of Commerce (International Business)",
+          "period": {
+            "startedOn": {
+              "year": 0
+            },
+            "endedOn": {
+              "year": 0
+            }
+          },
+          "breakdown": false
+        }
+      ],
+      "licenseAndCertificates": [],
+      "honorsAndAwards": [],
+      "languages": [
+        {
+          "name": "English",
+          "proficiency": "Native or bilingual proficiency"
+        },
+        {
+          "name": "French",
+          "proficiency": "Limited working proficiency"
+        }
+      ],
+      "volunteerAndAwards": [],
+      "verifications": [],
+      "promos": [],
+      "highlights": [],
+      "projects": [],
+      "publications": [],
+      "patents": [],
+      "courses": [],
+      "testScores": [],
+      "organizations": [],
+      "volunteerCauses": [],
+      "interests": [],
+      "recommendationsReceived": [
+        {
+          "name": "Frederic-Olivier Laurent",
+          "subtitle": "EMEA Product Manager for Accessories by HP",
+          "date": "January 5, 2013",
+          "context": "Frederic-Olivier managed Amit directly",
+          "description": "i warmly recommend Amit . if you're looking for  somebody dynamic, volunteer and  that is  also listening , he  is  your man . Amit helped us  a lot by preparing  and  distributing  our roadmaps. he did  a lot  of market analysis , playing  with market intelligence data and  investigating on every competitive launches . Amit  was key for the countries we worked with across EMEA as he  was the hinge point , trying  to help by providing   them product samples  and  Sales tools and  sharing  all the information needed. Amit  also prepared  the logistic info our customers  were looking for and  updated on regular basis our compatibility matrix in order to simplify and help people who wanted to easily understand  which accessory matched with each platform. \r\nAmit  is somebody  you can trust in .",
+          "urn": "urn:li:fsd_profile:ACoAAAFT1BkB9n7dMC7Cr0Uxi7BOevDOFDMUyuY",
+          "url": "https://www.linkedin.com/in/frederic-olivier-laurent-3895607/"
+        },
+        {
+          "name": "Moritz Nitzsche",
+          "subtitle": "Payments Strategy at Netflix",
+          "date": "January 3, 2013",
+          "context": "",
+          "description": "I studied with Amit in the same program for 2 years. During this time I worked with him on more projects than anybody else. This was for good reason. Amit exhibited great motivation on every project we worked together. When he put his mind to something he went above and beyond to make sure that it got executed to a high quality standard and on time. His pro-activeness probably played a huge part in this. Additionally, his ability to be a team player and bring out the best of each team member is exceptional. Equally, important however, are his capabilities. He was creative / innovative for each of the assignments we worked on and did well in focusing on the analytics side (not just looking at the symptoms but the cause. Being in the technology industry myself (Facebook) I can also vouch for his understanding of the tech industry. \r\n\r\nI fully respect Amit and whole-heartedly endorse him for whatever he puts his mind to.",
+          "urn": "urn:li:fsd_profile:ACoAAAMbtRoB2DVrs7dz3Ka7TJ2QrNOFZvUmW9E",
+          "url": "https://www.linkedin.com/in/mnitzsche/"
+        }
+      ],
+      "recommendations": [],
+      "peopleAlsoViewed": [
+        {
+          "last_name": "Lorrain",
+          "first_name": "Matthieu",
+          "headline": "Creative Lead, Google DeepMind",
+          "entity_urn": "urn:li:fsd_profile:ACoAAADKjg4BXsj4F_4hjpK4TGafDuvrxZKsZzk",
+          "public_identifier": "matthieulorrain",
+          "premium": true,
+          "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQF1s20gvVnBxQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726862983462?e=1766016000&v=beta&t=-pdhEpE6cYBrVZwOuqvJDquNrMIfUWLNsUL6jNXYkK0",
+          "url": "https://linkedin.com/in/ACoAAADKjg4BXsj4F_4hjpK4TGafDuvrxZKsZzk",
+          "follower_count": 80444
+        },
+        {
+          "last_name": "Carrasqueira",
+          "first_name": "Joana",
+          "headline": "Vibe Coding Lead, Google DeepMind | MBA",
+          "entity_urn": "urn:li:fsd_profile:ACoAAAWXZdIBQnB6A8vgc75WveekN69Umc8uvsQ",
+          "public_identifier": "joana-carrasqueira-1024bb27",
+          "premium": true,
+          "profile_picture": "https://media.licdn.com/dms/image/v2/D4D03AQFobSbLxgnT1A/profile-displayphoto-crop_800_800/B4DZgwX6W_H4AI-/0/1753158234298?e=1766016000&v=beta&t=J2Fksc6xip-3KSgRRFvJ76ZO1y932OKKocfd_jfsRIU",
+          "url": "https://linkedin.com/in/ACoAAAWXZdIBQnB6A8vgc75WveekN69Umc8uvsQ",
+          "follower_count": 8418
+        },
+        {
+          "last_name": "Hassabis",
+          "first_name": "Demis",
+          "headline": "Co-Founder & CEO, Google DeepMind",
+          "entity_urn": "urn:li:fsd_profile:ACoAAABF-MwB7iB4akwmoOuY2weqOHO5wxcyoHU",
+          "public_identifier": "demishassabis",
+          "premium": true,
+          "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQHDlCnuxugKuA/profile-displayphoto-shrink_800_800/B4EZSKW58BHAAc-/0/1737488048398?e=1766016000&v=beta&t=iXZzsdDise0gufROByG6fpjO2n_m2ObVVw7YeO5_LYA",
+          "url": "https://linkedin.com/in/ACoAAABF-MwB7iB4akwmoOuY2weqOHO5wxcyoHU",
+          "follower_count": 177321
+        },
+        {
+          "last_name": "Riedl",
+          "first_name": "Erin",
+          "headline": "Senior Product Manager at Google DeepMind",
+          "entity_urn": "urn:li:fsd_profile:ACoAAAeApeYByrxQyyCrqV9rHDtF2qUQHgavzlE",
+          "public_identifier": "erinriedl",
+          "premium": false,
+          "profile_picture": "https://media.licdn.com/dms/image/v2/D4D03AQG_zLuxhjU0jw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1690404020204?e=1766016000&v=beta&t=yAbl5ZZpaHw7leTN8y9tFBqgvqMp0i4dCZg7xMiVFcY",
+          "url": "https://linkedin.com/in/ACoAAAeApeYByrxQyyCrqV9rHDtF2qUQHgavzlE",
+          "follower_count": 2006
+        },
+        {
+          "last_name": "Fortin",
+          "first_name": "Alisa",
+          "headline": "Product @ Google DeepMind | Helping developers build with AI",
+          "entity_urn": "urn:li:fsd_profile:ACoAAAgOVrYB_xccn54D_cSK27mDrDwL3RcwiIM",
+          "public_identifier": "alisafortin",
+          "premium": false,
+          "profile_picture": "https://media.licdn.com/dms/image/v2/D4D03AQGaa80lX7KH4w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1683775175433?e=1766016000&v=beta&t=Bsj4F77birjD1N65wMWp4GQ-20qw_XrPixMB31i3QSY",
+          "url": "https://linkedin.com/in/ACoAAAgOVrYB_xccn54D_cSK27mDrDwL3RcwiIM",
+          "follower_count": 3145
+        },
+        {
+          "last_name": "Basu Mallick",
+          "first_name": "Shrestha",
+          "headline": "Product Leader at Google DeepMind. Working on Google Gemini API and AI Studio. Startup Advisor",
+          "entity_urn": "urn:li:fsd_profile:ACoAAACkW8cBu6YpnTxvuqrx9ypnFBbQVoIbycY",
+          "public_identifier": "shresthabm",
+          "premium": false,
+          "profile_picture": "https://media.licdn.com/dms/image/v2/C5603AQESc2yMJMBjzw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1588031680555?e=1766016000&v=beta&t=WLmnTFvRmhajXnPAHPUx-YGzjAGup4HLqblPrP_0V0A",
+          "url": "https://linkedin.com/in/ACoAAACkW8cBu6YpnTxvuqrx9ypnFBbQVoIbycY",
+          "follower_count": 6144
+        },
+        {
+          "last_name": "Ruiz",
+          "first_name": "🦝 Paul",
+          "headline": "DevRel lead for AI on Robotics @ Google DeepMind",
+          "entity_urn": "urn:li:fsd_profile:ACoAAAziWKABV1SRwbg-HK4cncjiJ1mWfjkRYFE",
+          "public_identifier": "paultruiz",
+          "premium": false,
+          "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEUxCyoxt7KLg/profile-displayphoto-crop_800_800/B56Zk7dqPGKAAI-/0/1757639255453?e=1766016000&v=beta&t=_WqTn40_lq4TpAUsSecyjUdlKKJMyxxKDaWDtrYjyp4",
+          "url": "https://linkedin.com/in/ACoAAAziWKABV1SRwbg-HK4cncjiJ1mWfjkRYFE",
+          "follower_count": 2213
+        },
+        {
+          "last_name": "Ballantyne",
+          "first_name": "Ian",
+          "headline": "Developer Relations Engineer at Google DeepMind",
+          "entity_urn": "urn:li:fsd_profile:ACoAAACsTB4BggjartxKHS1YqlpnM2uls3w4hzk",
+          "public_identifier": "ianballantyne",
+          "premium": false,
+          "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQHgQ4YM8kpj4A/profile-displayphoto-shrink_800_800/B4EZOeuV1IHwAc-/0/1733534768842?e=1766016000&v=beta&t=BrztWElUO1pRLeCeCz_rrN_srMaf-RBPdHMsB0I6DVk",
+          "url": "https://linkedin.com/in/ACoAAACsTB4BggjartxKHS1YqlpnM2uls3w4hzk",
+          "follower_count": 1204
+        },
+        {
+          "last_name": "Caner",
+          "first_name": "Doruk",
+          "headline": "Director at Google Deepmind",
+          "entity_urn": "urn:li:fsd_profile:ACoAAAB8_8MBv9bTQ4WdTVST8iCaywR9zOI4XA8",
+          "public_identifier": "dorukcaner",
+          "premium": false,
+          "profile_picture": "https://media.licdn.com/dms/image/v2/D4D03AQE_pv5ohWnjuA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718228103614?e=1766016000&v=beta&t=kClhmpJwBwYRr84LY2nPiPE5nL2udQEbexJHXK24P98",
+          "url": "https://linkedin.com/in/ACoAAAB8_8MBv9bTQ4WdTVST8iCaywR9zOI4XA8",
+          "follower_count": 1396
+        },
+        {
+          "last_name": "Carne",
+          "first_name": "Mike",
+          "headline": "Talent Acquisition - Google DeepMind",
+          "entity_urn": "urn:li:fsd_profile:ACoAABbP-L0BwAweUHP_eP-QuM0L7XJQi2ae7-I",
+          "public_identifier": "mike-carne",
+          "premium": true,
+          "profile_picture": "https://media.licdn.com/dms/image/v2/C4E03AQFqTeQHG_p0zg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1643108098461?e=1766016000&v=beta&t=xWC1o9UoIT4Yu1XwNrcuPjOYUFz0kUJZCzh3B85DF1Y",
+          "url": "https://linkedin.com/in/ACoAABbP-L0BwAweUHP_eP-QuM0L7XJQi2ae7-I",
+          "follower_count": 9898
+        },
+        {
+          "last_name": "Çevik",
+          "first_name": "Ali H.",
+          "headline": "API Product Co-Lead at Google DeepMind",
+          "entity_urn": "urn:li:fsd_profile:ACoAAAwfdL0B9oIOyf3oXILXO7j0AOLtlUMs_yU",
+          "public_identifier": "alicevik",
+          "premium": false,
+          "profile_picture": "",
+          "url": "https://linkedin.com/in/ACoAAAwfdL0B9oIOyf3oXILXO7j0AOLtlUMs_yU",
+          "follower_count": 2367
+        },
+        {
+          "last_name": "Grant",
+          "first_name": "Svetlana",
+          "headline": "Business Development and Strategic Partnerships @ Google DeepMind",
+          "entity_urn": "urn:li:fsd_profile:ACoAAAAHRE0BGmD82SHq5c0nUBSmAdoPFUNjgcw",
+          "public_identifier": "svetlana-grant-7251ab",
+          "premium": false,
+          "profile_picture": "",
+          "url": "https://linkedin.com/in/ACoAAAAHRE0BGmD82SHq5c0nUBSmAdoPFUNjgcw",
+          "follower_count": 2511
+        },
+        {
+          "last_name": "Havazelet",
+          "first_name": "Noa",
+          "headline": "Head of Google Accelerator, EMEA| Personal Coach| Supporting people & innovation",
+          "entity_urn": "urn:li:fsd_profile:ACoAAApIJEABD5UhWAtri6XhpDOOVr9maOWxffM",
+          "public_identifier": "noahav",
+          "premium": true,
+          "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQHzxoJ-UYgVIQ/profile-displayphoto-crop_800_800/B4EZqonM4JKoAI-/0/1763765443866?e=1766016000&v=beta&t=pfdcLGQJLvy1MF-xdZNGyqqDbCkU-qgA0KgvvbEVPIE",
+          "url": "https://linkedin.com/in/ACoAAApIJEABD5UhWAtri6XhpDOOVr9maOWxffM",
+          "follower_count": 5408
+        },
+        {
+          "last_name": "Ryan",
+          "first_name": "Francesca",
+          "headline": "Talent Acquisition Associate at Google DeepMind",
+          "entity_urn": "urn:li:fsd_profile:ACoAACU6-E4BpnPRLtl9a0hF24qwVEF4tin6dFw",
+          "public_identifier": "francesca-ryan-a3a226155",
+          "premium": true,
+          "profile_picture": "https://media.licdn.com/dms/image/v2/C4E03AQHZy4XPRShTKA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1653988119026?e=1766016000&v=beta&t=nTGAorZ4mc6yaCApO2DTR2gWIr8Igb4fdofX1LE7CY8",
+          "url": "https://linkedin.com/in/ACoAACU6-E4BpnPRLtl9a0hF24qwVEF4tin6dFw",
+          "follower_count": 3169
+        },
+        {
+          "last_name": "Perry",
+          "first_name": "Steven",
+          "headline": "Lead Program Manager for Operations & External Engagement at Google DeepMind",
+          "entity_urn": "urn:li:fsd_profile:ACoAAAhBKIgBDx3qBehvWiAr2qpUAvO2mW8OdF8",
+          "public_identifier": "steven-perry-5a04673a",
+          "premium": false,
+          "profile_picture": "https://media.licdn.com/dms/image/v2/C5603AQHyr150vm65pQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1521797196062?e=1766016000&v=beta&t=OK8vyoZIEh1i8prXj0v0UwuMMxdNhfubxlVcqskbKng",
+          "url": "https://linkedin.com/in/ACoAAAhBKIgBDx3qBehvWiAr2qpUAvO2mW8OdF8",
+          "follower_count": 964
+        },
+        {
+          "last_name": "Bouton",
+          "first_name": "Simon",
+          "headline": "Chief Experience Officer (CXO)",
+          "entity_urn": "urn:li:fsd_profile:ACoAAAA7wLsBvlJf3XlVyWzxDaVj30uNvnmyuVU",
+          "public_identifier": "simon-bouton-22338a1",
+          "premium": true,
+          "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEv2JMQAUdF5g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1664394926325?e=1766016000&v=beta&t=odlaCxDOFbNvzf2br_lBc4Ur2pN2f2AdJvvrTgI-XYA",
+          "url": "https://linkedin.com/in/ACoAAAA7wLsBvlJf3XlVyWzxDaVj30uNvnmyuVU",
+          "follower_count": 873
+        },
+        {
+          "last_name": "Cattle",
+          "first_name": "Dee",
+          "headline": "AI Ethics & Safety at DeepMind",
+          "entity_urn": "urn:li:fsd_profile:ACoAACSa3bIBRHNX_C91OppsQTJZUi8HNe91ZJ8",
+          "public_identifier": "dee-cattle-92a806151",
+          "premium": false,
+          "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQE6pbd6ahw0gw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723120860767?e=1766016000&v=beta&t=pdUIAjZjqb142gBG4Tp46FhLZLg1uQtqhS8yMv2fRQ4",
+          "url": "https://linkedin.com/in/ACoAACSa3bIBRHNX_C91OppsQTJZUi8HNe91ZJ8",
+          "follower_count": 1472
+        },
+        {
+          "last_name": "Forbes-Pollard",
+          "first_name": "Hannah",
+          "headline": "Program Manager at Google DeepMind",
+          "entity_urn": "urn:li:fsd_profile:ACoAABzIrmIBCjUddnHe4mWWpcTNjm_n-GyW4UE",
+          "public_identifier": "hannah-forbes-pollard-082888115",
+          "premium": false,
+          "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQG28OkvqRzWkQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1712160764274?e=1766016000&v=beta&t=sqOQ-yNnK8Hst-osqyrSUuAEpw0yJfWAeEmFgVfpt3s",
+          "url": "https://linkedin.com/in/ACoAABzIrmIBCjUddnHe4mWWpcTNjm_n-GyW4UE",
+          "follower_count": 414
+        },
+        {
+          "last_name": "Onions",
+          "first_name": "Rosalind",
+          "headline": "Partnerships Manager at Google DeepMind Impact Accelerator",
+          "entity_urn": "urn:li:fsd_profile:ACoAAAolGaEBCA8m5kJn0p-Ze0XS1vd2d2aaBuc",
+          "public_identifier": "rosalindonions",
+          "premium": false,
+          "profile_picture": "",
+          "url": "https://linkedin.com/in/ACoAAAolGaEBCA8m5kJn0p-Ze0XS1vd2d2aaBuc",
+          "follower_count": 1197
+        },
+        {
+          "last_name": "Simons",
+          "first_name": "Tom",
+          "headline": "Director, Talent Acquisition @ Google DeepMind",
+          "entity_urn": "urn:li:fsd_profile:ACoAAAEmT9UBNLEs0sWshloZvTppkU39hm9ym_A",
+          "public_identifier": "tsimons1",
+          "premium": true,
+          "profile_picture": "https://media.licdn.com/dms/image/v2/C4D03AQFdg9xl1j44BQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1642772995557?e=1766016000&v=beta&t=-1OMD9wOPOBzpVoVkX3vmgem7afAqB5q00mzOa0I7Vs",
+          "url": "https://linkedin.com/in/ACoAAAEmT9UBNLEs0sWshloZvTppkU39hm9ym_A",
+          "follower_count": 4280
+        },
+        {
+          "last_name": "Goldstein",
+          "first_name": "Jayme",
+          "headline": "Creative & Brand Lead at DeepMind",
+          "entity_urn": "urn:li:fsd_profile:ACoAACDTMgcB6nk7U3uKxMcQxiyFpl-kUjTIDIs",
+          "public_identifier": "jaymegoldstein",
+          "premium": false,
+          "profile_picture": "https://media.licdn.com/dms/image/v2/C4E03AQH2vA2wm9LZVw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1541171733164?e=1766016000&v=beta&t=qs0S471QiidT1Q68dSht5yTzFTVPZOfenXrzcu975uI",
+          "url": "https://linkedin.com/in/ACoAACDTMgcB6nk7U3uKxMcQxiyFpl-kUjTIDIs",
+          "follower_count": 546
+        },
+        {
+          "last_name": "Farnese",
+          "first_name": "Erin",
+          "headline": "Executive Assistant at Google DeepMind",
+          "entity_urn": "urn:li:fsd_profile:ACoAACkRJ_QBFrTZoJ8J5oXz7zcZxVaVM74DhBg",
+          "public_identifier": "erin-farnese-2188a9172",
+          "premium": false,
+          "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQF3-sEqpH6ujA/profile-displayphoto-crop_800_800/B4EZmqbRiUHoAI-/0/1759500901098?e=1766016000&v=beta&t=7DeYKjsYSYwEGh3HHBz_1t8sjwvVQjgrAr4tVsK43ys",
+          "url": "https://linkedin.com/in/ACoAACkRJ_QBFrTZoJ8J5oXz7zcZxVaVM74DhBg",
+          "follower_count": 2356
+        },
+        {
+          "last_name": "Shammas",
+          "first_name": "Alexander",
+          "headline": "Head of Strategy & Special Projects at Google DeepMind",
+          "entity_urn": "urn:li:fsd_profile:ACoAAA_ZN4IBpP5oNSCv2URj9CGkYRiJSqGEVgc",
+          "public_identifier": "alexander-shammas-85606975",
+          "premium": false,
+          "profile_picture": "https://media.licdn.com/dms/image/v2/C4E03AQF29eL3YU6qMg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1663850581612?e=1766016000&v=beta&t=vQZVUx0gxjAVdBQEZptH4Z9LNFhr22s0qHQoX5XPnDk",
+          "url": "https://linkedin.com/in/ACoAAA_ZN4IBpP5oNSCv2URj9CGkYRiJSqGEVgc",
+          "follower_count": 2560
+        },
+        {
+          "last_name": "Mason",
+          "first_name": "Jack",
+          "headline": "Portfolio management at Google Deepmind ",
+          "entity_urn": "urn:li:fsd_profile:ACoAACO0Xp0BNdPNN-eyo6VjfjYBG-mHiYeVoBY",
+          "public_identifier": "jack-r-m-mason",
+          "premium": false,
+          "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEVV1lf-W5e9A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1662464479864?e=1766016000&v=beta&t=MyP0-4Ex3KkAZ9oRidATXyXtK2Xms1XtfEsqvnzlLVQ",
+          "url": "https://linkedin.com/in/ACoAACO0Xp0BNdPNN-eyo6VjfjYBG-mHiYeVoBY",
+          "follower_count": 4244
+        },
+        {
+          "last_name": "Dawoud",
+          "first_name": "Mo",
+          "headline": "Program Management at Google DeepMind",
+          "entity_urn": "urn:li:fsd_profile:ACoAABuEVQ0BC0I8M_LbC6zDB2_5SBRq8jc09gE",
+          "public_identifier": "mo-dawoud",
+          "premium": false,
+          "profile_picture": "https://media.licdn.com/dms/image/v2/C4D03AQG3FPb4LpTiIA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1606043814396?e=1766016000&v=beta&t=8YwuHrOK9ABCTJBawHXKK_AS3kvsR-DUquntHdKAYsg",
+          "url": "https://linkedin.com/in/ACoAABuEVQ0BC0I8M_LbC6zDB2_5SBRq8jc09gE",
+          "follower_count": 1567
+        },
+        {
+          "last_name": "Malozemov",
+          "first_name": "Nick",
+          "headline": "KCL Business Management Graduate→ Building AI Agents | Love Hackathons | Striving in Chaos",
+          "entity_urn": "urn:li:fsd_profile:ACoAAEjP5zABzCzA8tYEVON19dhWqjvmROQ-SZM",
+          "public_identifier": "nick-malozemov-7001332a1",
+          "premium": true,
+          "profile_picture": "https://media.licdn.com/dms/image/v2/D4D03AQH8-dDpJlRFNg/profile-displayphoto-shrink_800_800/B4DZVjDDtpHIAg-/0/1741123501392?e=1766016000&v=beta&t=Z3RCARyaNC-iDksRVRzFtnEQH_pFre1CJg6SFkejkp8",
+          "url": "https://linkedin.com/in/ACoAAEjP5zABzCzA8tYEVON19dhWqjvmROQ-SZM",
+          "follower_count": 233
+        }
+      ]
+    }
+  ]

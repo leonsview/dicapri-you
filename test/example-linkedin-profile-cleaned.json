@@ -1,0 +1,239 @@
+[
+  {
+    "linkedinUrl": "https://www.linkedin.com/in/amitvadi/",
+    "firstName": "Amit",
+    "lastName": "Vadi",
+    "fullName": "Amit Vadi",
+    "headline": "Head of Community, Google DeepMind DevX | Apple alum",
+    "connections": 2913,
+    "followers": 2895,
+    "jobTitle": "Head of Community, Developer Experience (DevX)",
+    "jobStartedOn": "1-2025",
+    "jobLocation": "London Area, United Kingdom",
+    "jobStillWorking": true,
+    "companyName": "Google DeepMind",
+    "companyIndustry": "Research Services",
+    "companyWebsite": "https://www.deepmind.google",
+    "companySize": "501-1000",
+    "currentJobDuration": "11 mos",
+    "addressWithCountry": "London Area, United Kingdom United Kingdom",
+    "profilePicHighQuality": "https://media.licdn.com/dms/image/v2/D4E03AQFmm47KW9A8Gw/profile-displayphoto-shrink_800_800/B4EZXDjIJCGgAg-/0/1742742521581?e=1766016000&v=beta&t=HXQuS9wIv3bpoLEXqIQCLagnCJF04IfzahrhBhJ1zS8",
+    "backgroundPic": "https://media.licdn.com/dms/image/v2/D4E16AQE6sB5tlUcATg/profile-displaybackgroundimage-shrink_350_1400/B4EZXAiO6dG0Ac-/0/1742691954889?e=1766016000&v=beta&t=uGiRhAFU0_3pjB6NgdsZdNccOQAefoPopa2sPX-Hc6o",
+    "about": "Driven by the potential of technology to shape a better future, I lead global programs that bring emerging innovations to scale. My approach involves developing strategies that successfully engage both technical communities and end-users. I am dedicated to fostering authentic relationships, building seamless user journeys, and consistently delivering impactful, measurable results.",
+    "birthday": {
+      "day": "",
+      "month": "",
+      "year": ""
+    },
+    "experiences": [
+      {
+        "companyName": "Google DeepMind",
+        "companySize": "501-1000",
+        "companyWebsite": "https://www.deepmind.google",
+        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEntrYwxPlbQA/company-logo_400_400/company-logo_400_400/0/1692960425188/googledeepmind_logo?e=1766016000&v=beta&t=frBXTdNdKTYK2GKi_OpW61gZCmMIkYrECksA9RX-6xc",
+        "title": "Head of Community, Developer Experience (DevX)",
+        "jobDescription": "Empowering developers to build AI that benefits humanity. Current areas of focus include Gemini, Gemma, GenMedia and Robotics. \n\nStart building with ai.studio",
+        "jobStartedOn": "1-2025",
+        "jobEndedOn": null,
+        "jobLocation": "London Area, United Kingdom",
+        "jobStillWorking": true,
+        "jobLocationCountry": "GB",
+        "employmentType": "Full-time"
+      },
+      {
+        "companyName": "Google",
+        "companySize": "10001-0",
+        "companyWebsite": "https://goo.gle/3DLEokh",
+        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1766016000&v=beta&t=7lvLVem85K20o2qD8bFVwp4gon7HW6Hki7wjcsStdD4",
+        "title": "Head of Community, AI/ML Developer",
+        "jobDescription": null,
+        "jobStartedOn": "1-2025",
+        "jobEndedOn": "1-2025",
+        "jobLocation": "London Area, United Kingdom",
+        "jobStillWorking": false,
+        "jobLocationCountry": "US",
+        "employmentType": "Full-time"
+      },
+      {
+        "companyName": "Consensys",
+        "companySize": "501-1000",
+        "companyWebsite": "https://consensys.io/",
+        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE3hYT2QCBRzw/company-logo_400_400/company-logo_400_400/0/1687864720039/consensys_software_inc_logo?e=1766016000&v=beta&t=ldYGX1_2zZbfayJTzYRxiJJpQ9IlOCD1Qg55u9S3e_s",
+        "title": "Lead Product Marketing Manager",
+        "jobDescription": "Led go to market strategies for MetaMask's Core Experiences covering key areas such as Assets, Confirmations, Portfolio, Safety, UI/UX, and Multichain",
+        "jobStartedOn": "7-2024",
+        "jobEndedOn": "10-2024",
+        "jobLocation": null,
+        "jobStillWorking": false,
+        "jobLocationCountry": "US",
+        "employmentType": "Full-time"
+      },
+      {
+        "companyName": "Aave Labs",
+        "companySize": "51-200",
+        "companyWebsite": "http://avara.xyz",
+        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEI69FRC6uZlg/company-logo_400_400/B4EZjGlXG6HEAY-/0/1755678339867/avaraxyz_logo?e=1766016000&v=beta&t=k3mNOlnI6zqEVqBk9s-OLr8-QgmtGiFo8Ta7NJEo5kU",
+        "title": "Director, Product Marketing",
+        "jobDescription": "Led marketing, social, and go to market (GTM) operations for the Avara suite of products, including Aave (DeFi), Lens (Social), and Family (Wallet). Oversaw the successful launch of the Aave stablecoin and several market deployments, contributing to over $10B in Total Value Locked (TVL) growth. Scaled Lens Protocol through its 0-to-1 beta stage, securing a $15M Series A. Drove key initiatives including the Aave Co. to Avara rebrand, developer docs and SDK, education initiatives, growth marketing, sponsorships, and partner management",
+        "jobStartedOn": "7-2022",
+        "jobEndedOn": "2-2024",
+        "jobLocation": "London, England, United Kingdom",
+        "jobStillWorking": false,
+        "jobLocationCountry": "GB",
+        "employmentType": "Full-time"
+      },
+      {
+        "companyName": "Apple",
+        "companySize": "10001-0",
+        "companyWebsite": "http://www.apple.com/careers",
+        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_400_400/company-logo_400_400/0/1630637844948/apple_logo?e=1766016000&v=beta&t=WVbTMMJcFU5I8cjTgY3plaH-W1kiY6BM2UNh0vPp1n0",
+        "title": "Senior Program Manager, Worldwide Product Marketing",
+        "jobDescription": "Built and scaled global qualitative and quantitative research programs from the ground up across Apple's product ecosystem, providing strategic insights that shaped the evolution of iOS, iPadOS, macOS, and flagship services including Siri, Safari, iCloud, iMessage, Mail, and CarPlay. Led high-impact initiatives from early ideation through successful market launch, including App Tracking Transparency (iOS 14.5), Siri on-device experience and cross-platform Safari redesign (iOS 15), and the complete Lock Screen redesign with CarPlay overhaul (iOS 16). My contributions extended to Worldwide Developer Relations strategy (WWDC 2020-2022), establishing a data flywheel that optimized product development cycles and drove long-term revenue growth across all Apple platforms",
+        "jobStartedOn": "10-2018",
+        "jobEndedOn": "6-2022",
+        "jobLocation": "London, England / Cupertino, USA",
+        "jobStillWorking": false,
+        "jobLocationCountry": "US",
+        "employmentType": "Full-time"
+      },
+      {
+        "companyName": "Apple",
+        "companySize": "10001-0",
+        "companyWebsite": "http://www.apple.com/careers",
+        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_400_400/company-logo_400_400/0/1630637844948/apple_logo?e=1766016000&v=beta&t=WVbTMMJcFU5I8cjTgY3plaH-W1kiY6BM2UNh0vPp1n0",
+        "title": "Senior Analyst, EMEIA Product Marketing",
+        "jobDescription": "Led data-driven initiatives across 40+ countries for Apple's iPad, Mac, Apple Watch, and Smart Home + Accessories (Apple TV, HomePod, AirPods). I transformed raw data into actionable insights, directly enhancing marketing strategies through Quarterly Business Reviews (QBRs), product briefings, and analyst relations. My contributions also informed go to market initiatives, demand generation, partnership support, and strategic long-term planning for regional sales and finance leadership teams",
+        "jobStartedOn": "3-2014",
+        "jobEndedOn": "10-2018",
+        "jobLocation": "London, United Kingdom",
+        "jobStillWorking": false,
+        "jobLocationCountry": "US",
+        "employmentType": "Full-time"
+      },
+      {
+        "companyName": "Apple",
+        "companySize": "10001-0",
+        "companyWebsite": "http://www.apple.com/careers",
+        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_400_400/company-logo_400_400/0/1630637844948/apple_logo?e=1766016000&v=beta&t=WVbTMMJcFU5I8cjTgY3plaH-W1kiY6BM2UNh0vPp1n0",
+        "title": "EMEIA Product Marketing Internship",
+        "jobDescription": "I had the privilege to work on major Apple product launches (iPhone 5s, iPhone 5c, iOS 7, iPad Air & mini, MacBook Air & Pro) and subsequent media events, press briefings across Western Europe",
+        "jobStartedOn": "3-2013",
+        "jobEndedOn": "3-2014",
+        "jobLocation": "London, England, United Kingdom",
+        "jobStillWorking": false,
+        "jobLocationCountry": "US",
+        "employmentType": "Full-time"
+      },
+      {
+        "companyName": "HP",
+        "companySize": "10001-0",
+        "companyWebsite": "http://www.hp.com",
+        "logo": "https://media.licdn.com/dms/image/v2/D560BAQEJUaQAv2kVcQ/company-logo_400_400/B56ZViAo6QHoAY-/0/1741106089999/hp_logo?e=1766016000&v=beta&t=ep_6D7nffS-cBk35jtVcwfuneuLoXJIuZLUile_66X0",
+        "title": "EMEA Product Manager Apprenticeship",
+        "jobDescription": "Managed product development for consumer and commercial PC accessories in EMEA. Worked on NPI design and messaging in collaboration with Worldwide Marketing and Product Engineering, from conception through to packaging. Accountable for over 500 SKUs (B2B + B2C) across 40+ markets",
+        "jobStartedOn": "7-2012",
+        "jobEndedOn": "1-2013",
+        "jobLocation": "Grenoble Area, France",
+        "jobStillWorking": false,
+        "jobLocationCountry": "US",
+        "employmentType": "Full-time"
+      },
+      {
+        "companyName": "Schneider Electric",
+        "companySize": "10001-0",
+        "companyWebsite": "https://www.se.com/",
+        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGNfeTPCu6Z-w/company-logo_400_400/company-logo_400_400/0/1631312208065?e=1766016000&v=beta&t=NeMvHfRyxOuFStMxaZ78HyuYQbX6H8qTkLg7zXe5JEM",
+        "title": "Innovation and Strategy Consultant",
+        "jobDescription": "Elected as Project Leader. Crafted a global strategy as part of my master's curriculum (Live Business Case) for an innovative cloud data warehouse maintenance service tailored for remote diagnostics",
+        "jobStartedOn": "11-2011",
+        "jobEndedOn": "5-2012",
+        "jobLocation": "Grenoble, Auvergne-Rhône-Alpes, France",
+        "jobStillWorking": false,
+        "jobLocationCountry": "FR",
+        "employmentType": "Full-time"
+      }
+    ],
+    "skills": [
+      "International Business",
+      "Microsoft Office",
+      "Innovation Management",
+      "Business Strategy",
+      "Entrepreneurial Skills",
+      "Team Leadership",
+      "English",
+      "Product Marketing",
+      "Business Development",
+      "Integrity",
+      "Ethics",
+      "Windows",
+      "Entrepreneurship",
+      "Negotiation",
+      "OS X",
+      "Sales",
+      "Product Development"
+    ],
+    "educations": [
+      {
+        "companyId": "12323",
+        "companyUrn": "urn:li:fsd_company:12323",
+        "companyLink1": "https://www.linkedin.com/school/grenoble-ecole-de-management/",
+        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGvtx73DKMbbw/company-logo_100_100/B4EZqgg5YRIUAQ-/0/1763629570049/grenoble_ecole_de_management_logo?e=1766016000&v=beta&t=KtLX3XAMmRSLd8dA1-VuUcO9yLyAoJ2UZ9RVklTkLF8",
+        "title": "Grenoble Ecole de Management",
+        "subtitle": "Master of Science - MS, Innovation, Strategy & Entrepreneurship",
+        "period": {
+          "startedOn": {
+            "year": 2011
+          },
+          "endedOn": {
+            "year": 2013
+          }
+        },
+        "breakdown": false
+      },
+      {
+        "companyId": "12323",
+        "companyUrn": "urn:li:fsd_company:12323",
+        "companyLink1": "https://www.linkedin.com/school/grenoble-ecole-de-management/",
+        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGvtx73DKMbbw/company-logo_100_100/B4EZqgg5YRIUAQ-/0/1763629570049/grenoble_ecole_de_management_logo?e=1766016000&v=beta&t=KtLX3XAMmRSLd8dA1-VuUcO9yLyAoJ2UZ9RVklTkLF8",
+        "title": "Grenoble Ecole de Management",
+        "subtitle": "Bachelor, International Business",
+        "period": {
+          "startedOn": {
+            "year": 2009
+          },
+          "endedOn": {
+            "year": 2011
+          }
+        },
+        "breakdown": false
+      },
+      {
+        "companyId": "10825",
+        "companyUrn": "urn:li:fsd_company:10825",
+        "companyLink1": "https://www.linkedin.com/school/dalhousie-university/",
+        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHfPPsx3l1srQ/company-logo_200_200/company-logo_200_200/0/1654526060264/dalhousie_university_logo?e=1766016000&v=beta&t=ZMiB9bXq0PCB1SvkonaSuLn8IpHzh0puNZ0PjZveJnE",
+        "title": "Dalhousie University",
+        "subtitle": "Bachelor of Science (Psychology)/Bachelor of Commerce (International Business)",
+        "period": {
+          "startedOn": {
+            "year": 0
+          },
+          "endedOn": {
+            "year": 0
+          }
+        },
+        "breakdown": false
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "proficiency": "Native or bilingual proficiency"
+      },
+      {
+        "name": "French",
+        "proficiency": "Limited working proficiency"
+      }
+    ]
+  }
+]

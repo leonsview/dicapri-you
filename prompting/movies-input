@@ -1,0 +1,10 @@
+{
+  "movies_1": {
+    "prompt": "The person from the reference photo (keep the face 100% accurate from the reference image) sitting in a classic red velvet movie theatre seat, holding a large bucket of buttery popcorn, mid-bite with a few popcorn pieces in hand near their mouth, eyes fixed on the screen (off-camera), expression of captivated wonder with the glow of the movie screen illuminating their face from the front. Classic vintage cinema interior with rows of red velvet seats visible in soft focus behind. CAMERA: Profile close-up from the side, 85mm lens at f/1.4, camera positioned at eye level perpendicular to the subject, face and popcorn bucket sharp with shallow depth of field blurring the theatre background. Dramatic chiaroscuro lighting with warm screen-glow on face and cool ambient theatre darkness behind. Cinematic, ultra-photorealistic, 8K resolution, shallow depth of field, HDR lighting, subtle film grain, no text, no watermark.",
+    "person_reference_image": "{{person_profile_image}}"
+  },
+  "movies_2": {
+    "prompt": "The person from the reference photo (keep the face 100% accurate from the reference image) sitting in a classic red velvet movie theatre seat, leaning slightly forward with genuine curiosity, eyes wide and engaged watching the screen, mouth slightly open in anticipation, both hands resting on armrests or loosely holding popcorn bucket in lap. Classic vintage cinema interior with the bright projector light beam cutting through the dusty air behind their head, visible light rays streaming from the projection booth creating a dramatic halo effect. CAMERA: Frontal medium close-up from chest up, 50mm lens at f/2.0, camera positioned straight-on at eye level, subject centered in frame with the projector beam creating depth behind. Dramatic cinematic lighting with cool blue-white projector rays in background contrasting warm screen-glow illuminating the subject's face from the front. Cinematic, ultra-photorealistic, 8K resolution, shallow depth of field, HDR lighting, subtle film grain, volumetric light rays, no text, no watermark.",
+    "person_reference_image": "{{person_profile_image}}"
+  }
+}
