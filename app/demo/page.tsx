@@ -49,7 +49,7 @@ export default function DemoPage() {
     setError(null);
 
     // Fake 32 second delay
-    await new Promise((resolve) => setTimeout(resolve, 32000));
+    await new Promise((resolve) => setTimeout(resolve, 6000));
 
     setGeneratedVideo("https://ubioqzowbvhigmxygqpn.supabase.co/storage/v1/object/public/videos/Bela%20the%20movie.mp4");
     setShowDialog(true);
