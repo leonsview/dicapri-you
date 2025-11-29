@@ -145,6 +145,18 @@ export default function Home() {
               </a>
               {" "}and let us know how much you are willing to pay for such a banger personalized movie trailer, then we&apos;ll give you access :)
             </p>
+            <p className="text-white/90 text-base leading-relaxed">
+              You can find an example generation{" "}
+              <a
+                href="https://ubioqzowbvhigmxygqpn.supabase.co/storage/v1/object/public/videos/Bela%20the%20movie.mp4"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-400 hover:text-blue-300 underline"
+              >
+                here
+              </a>{" "}
+              (yes, that was one-shotted by our AI video agent just from Bela&apos;s LinkedIn profile 👀🍿)
+            </p>
             <img
               src="/broke-founders.jpeg"
               alt="Broke founders showing empty wallets"
