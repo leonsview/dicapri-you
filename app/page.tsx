@@ -36,6 +36,17 @@ export default function Home() {
 
     setError(null);
     setShowBrokePopup(true);
+
+    // Send webhook with LinkedIn URL in the background
+    fetch("https://leonsandner.app.n8n.cloud/webhook/4c84ed85-535f-4727-b6d9-3de91cc83852", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({ "LinkedIn URL": linkedinUrl }),
+    }).catch(() => {
+      // Silently ignore webhook errors
+    });
   };
 
   return (
@@ -136,12 +147,14 @@ export default function Home() {
               We&apos;re broke founders, so unfortunately we cannot give it out for free to everyone, as it costs a lot of credits.
             </p>
             <p className="text-white/90 text-base leading-relaxed">
-              If you really want to try it, reach out to{" "}
+              If you really want to try it, sign up{" "}
               <a
-                href="mailto:mail@leonsandner.com"
+                href="https://forms.gle/f1rhqyojiWd1mA4D6"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="text-blue-400 hover:text-blue-300 underline"
               >
-                mail@leonsandner.com
+                here
               </a>
               {" "}and let us know how much you are willing to pay for such a banger personalized movie trailer, then we&apos;ll give you access :)
             </p>
